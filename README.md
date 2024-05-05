@@ -3,7 +3,7 @@
 
 # Candidate Application Platform
 
- create a candidate application platform that allows users to view job listings
+ Candidate application platform that allows users to view job listings
 
 
 # Installation
