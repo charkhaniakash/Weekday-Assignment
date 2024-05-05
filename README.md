@@ -22,7 +22,8 @@ cd Weekday-assignment
 
 Using npm:
 
-npm install
+npm install 
+npm i --legacy-peer-deps (if getting errors)
 
 Or using Yarn:
 
