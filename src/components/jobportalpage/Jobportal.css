@@ -1,0 +1,79 @@
+.experience__section {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.expirence__section .text {
+  color: var(--secondary-color);
+  font-weight: 500;
+}
+
+.date__of__posting {
+  text-align: center;
+  width: 65%;
+  padding: 1px;
+  border-radius: 13px;
+  box-shadow: var(--black) 0px 1px 4px 0px !important;
+  background: var(--white);
+  margin-bottom: 15px;
+}
+
+.job__cards__section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 30px;
+}
+
+.card {
+  background-color: var(--white);
+  border-radius: 25px;
+  box-shadow: var(--black) 0px 1px 4px 0px !important;
+  padding: 20px;
+  margin-bottom: 20px;
+  transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  width: 350px;
+}
+
+.company__name {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  gap: 12px;
+}
+
+.company__img img {
+  width: 4rem;
+  height: 4rem;
+}
+.role {
+  flex-grow: 1;
+  text-align: justify;
+}
+
+.estimated__salary {
+  margin-bottom: 10px;
+  text-align: justify;
+  font-weight: 700;
+  color: var(--black);
+}
+
+.company__info {
+  margin-bottom: 10px;
+  text-align: justify;
+}
+.company__info .about__us {
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.filter__actions {
+  margin: 10px 0 40px 0;
+  flex-wrap: wrap;
+  gap: 8px;
+  display: flex;
+  align-items: baseline;
+}
