@@ -1,3 +1,6 @@
+# Play around with Deployed Link   :-  https://weekday-job-portal.netlify.app/
+
+
 # Candidate Application Platform
 
  create a candidate application platform that allows users to view job listings
